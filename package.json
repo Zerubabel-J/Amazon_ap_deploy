@@ -1,0 +1,19 @@
+{
+  "name": "amazone_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0",
+    "stripe": "^14.17.0"
+  }
+}
